@@ -1,0 +1,29 @@
+.name{
+    border: none;
+    border-bottom: solid 1px blue;
+    
+}
+.email{
+    border: none;
+    border-bottom: solid 1px blue;
+    
+}.pass{
+    border: none;
+    border-bottom: solid 1px blue;
+    
+}.repass{
+    border: none;
+    border-bottom: solid 1px blue;
+    
+}
+#btn{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    
+}
+body{
+    text-align: center;
+    background-image: url(https://wallpapers.com/images/featured/4k-oaax18kaapkokaro.jpg);
+    background-size: cover;
+}
